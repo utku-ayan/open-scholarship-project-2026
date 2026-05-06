@@ -2,7 +2,7 @@
 For the course Open Scholarship.
 ## Project description:
 - In the data queried from Europeana, look into from which institution and/or country the data about World War 1 medals was gathered from.
-- ## The data was queried from the Europeana database.
+- ## The data was queried from the [Europeana](https://www.europeana.eu/en) database.
 - Date accessed: 29.04.2026
 - Licence: CC0
 - The data was queried using 'Medal' or 'Medals' as keywords, with 'World War 1' and alternatives added to filter.
