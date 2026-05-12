@@ -14,3 +14,8 @@
   - "dataProvider"
   - "country"
   - "completeness"
+## In the next cell that includes code, the file ["wwi_medals_filtered"](https://github.com/utku-ayan/open-scholarship-project-2026/blob/main/data/europeana_wwi_medals_29.04.2026.csv) is subjected to further statistical analysis. The following columns are analysed:
+  - "provider"
+  - "dataProvider"
+  - "country"
+### A text file is created with the statistical data, which includes what exists in these columns and how many time each entry is present.
