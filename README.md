@@ -12,4 +12,6 @@ For the course Open Scholarship.
 ## Initial Research Steps (Reconstructed)
 - 1. With the help of AI, the code provided for the course on Moodle was edited to query data about World War 1 medals from Europeana.
 - 2. The code was further modified so the csv file obtained includes only the relevant columns including provider, country and description among others. (More information [here](https://github.com/utku-ayan/open-scholarship-project-2026/blob/main/notebooks/README.md))
-- 3. The code was run on Jupyter Notebooks and the [filtered data from 29.04.2026](https://github.com/utku-ayan/open-scholarship-project-2026/blob/main/notebooks/EuropeanaMedals.ipynb) was obtained. 
+- 3. The code was run on Jupyter Notebooks and the [filtered data from 29.04.2026](https://github.com/utku-ayan/open-scholarship-project-2026/blob/main/notebooks/EuropeanaMedals.ipynb) was obtained.
+## Research Steps
+- 4. With the help of AI, additional code was added and run to gather statistical data from the previously linked file. This file includes metadata statistics on the provider of the queried data and the data's country of origin. The [statistical report](https://github.com/utku-ayan/open-scholarship-project-2026/blob/main/data/metadata_statistics_report.txt) was added to the data section of this project.
