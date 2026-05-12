@@ -18,4 +18,4 @@
   - "provider"
   - "dataProvider"
   - "country"
-### A [text file](data/metadata_statistics_report.txt) is created with the statistical data, which includes what exists in these columns and how many time each entry is present.
+### A [text file](https://github.com/utku-ayan/open-scholarship-project-2026/blob/main/data/metadata_statistics_report.txt) is created with the statistical data, which includes what exists in these columns and how many time each entry is present.
