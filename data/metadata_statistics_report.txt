@@ -1,0 +1,119 @@
+EUROPEANA WWI MEDALS METADATA REPORT
+============================================================
+
+
+COLUMN: provider
+------------------------------------------------------------
+Total unique values: 25
+Total rows: 2073
+
+Value frequencies:
+
+['Europeana 1914-1918'] --> 1504
+['MUSEU'] --> 167
+['National Library of France'] --> 135
+['The European Library'] --> 111
+['Greek Aggregator SearchCulture.gr'] --> 50
+['Jewish Heritage Network'] --> 25
+['Swedish Open Cultural Heritage'] --> 16
+['LoCloud'] --> 14
+['The European Film Gateway'] --> 9
+['AthenaPlus'] --> 6
+['National Library of Finland'] --> 6
+['National Heritage Institute, Bucharest'] --> 5
+['Digital Repository of Ireland'] --> 5
+['Central Institute for the Union Catalogue of Italian Libraries'] --> 4
+['German Digital Library'] --> 2
+['ThinkMOTION'] --> 2
+['Dutch Collections for Europe'] --> 2
+['CultureGrid'] --> 2
+['ESbírky'] --> 2
+['Forum Hungaricum Non-profit Ltd.'] --> 1
+['CulturaItalia'] --> 1
+['Estonian e-Repository and Conservation of Collections'] --> 1
+['International Association of Labour History Institutions'] --> 1
+['Europeana Local Austria'] --> 1
+['Rijksmuseum'] --> 1
+
+
+COLUMN: dataProvider
+------------------------------------------------------------
+Total unique values: 45
+Total rows: 2073
+
+Value frequencies:
+
+['Europeana 1914-1918'] --> 1504
+['Museum of City History Leipzig'] --> 160
+['National Library of France'] --> 135
+['National and University Library of Strasbourg'] --> 97
+['National Research Foundation Eleftherios K. Venizelos'] --> 21
+['Leo Baeck Institute, Center for Jewish History'] --> 20
+['The Danish Agency for Culture'] --> 14
+['Army Museum'] --> 11
+['The Foundation of the Museum of the Macedonian Struggle and Modern History of Macedonia'] --> 11
+['Athens War Museum'] --> 10
+['The Central National Library of Florence'] --> 9
+['Hellenic Literary and Historical Archive - Cultural Foundation of the National Bank Of Greece'] --> 8
+['The Portable Antiquities Scheme'] --> 6
+['Nottingham City Museums and Galleries'] --> 6
+['Central Europe Center for Research and Documentation'] --> 5
+['Cinecittà - Luce'] --> 5
+['Helsinki City Museum'] --> 5
+['National Central Library of Rome'] --> 4
+['Dublin City Library and Archive'] --> 4
+['Postmuseum'] --> 4
+['Alessandrina University Library'] --> 3
+['National Heritage Institute, Bucharest'] --> 3
+['Digital Mechanism and Gear Library'] --> 2
+['Heidelberg University Library'] --> 2
+['Royal Museums Greenwich'] --> 2
+['National Museum - Virtual Museum'] --> 2
+['National Archives of the Netherlands'] --> 2
+['EYE Film Museum'] --> 1
+['Professor Engineer Dimitrie Leonida Technical Museum'] --> 1
+['Dalarnas Museum'] --> 1
+['Digital Repository of Ireland'] --> 1
+['Rijksmuseum'] --> 1
+['International Institute of Social History'] --> 1
+['Finnish Heritage Agency'] --> 1
+['Stiftung Domäne Dahlem - Estate and Museum'] --> 1
+['Museum Centre of Campania'] --> 1
+['European Heritage Awards Archive'] --> 1
+['Estonian Maritime Museum'] --> 1
+['National Film Archive of the Republic of Serbia'] --> 1
+['Berlin State Library'] --> 1
+['Central Museum of the Risorgimento in Rome'] --> 1
+['Balaton Museum'] --> 1
+['Romanian National Film Archive'] --> 1
+['Polish National Film Archive'] --> 1
+['Bucharest Municipality Museum'] --> 1
+
+
+COLUMN: country
+------------------------------------------------------------
+Total unique values: 19
+Total rows: 2073
+
+Value frequencies:
+
+['Europe'] --> 1512
+['France'] --> 232
+['Germany'] --> 164
+['Greece'] --> 50
+['Italy'] --> 23
+['United States of America'] --> 20
+['Sweden'] --> 16
+['Denmark'] --> 14
+['United Kingdom'] --> 8
+['Finland'] --> 6
+['Austria'] --> 6
+['Romania'] --> 6
+['Ireland'] --> 5
+['Netherlands'] --> 5
+['Czech Republic'] --> 2
+['Serbia'] --> 1
+['Poland'] --> 1
+['Hungary'] --> 1
+['Estonia'] --> 1
+
