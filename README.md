@@ -1,7 +1,7 @@
 # open-scholarship-project-2026
 For the course Open Scholarship.
 ## Project description:
-- In the data queried from Europeana, look into from which provider and/or country the data about World War 1 medals was gathered from. **(Outdated, see Research Step V)**
+- In the data queried from Europeana, look into from which provider and/or country the data about World War 1 medals was gathered from. 
 - ## The data was queried from the [Europeana](https://www.europeana.eu/en) database.
 - Date accessed: 29.04.2026
 - Licence: CC0
