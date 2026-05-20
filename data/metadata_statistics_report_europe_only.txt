@@ -1,0 +1,97 @@
+EUROPEANA WWI MEDALS METADATA REPORT (EUROPE FILTERED)
+======================================================================
+
+Total rows after filtering: 1512
+
+
+COLUMN: provider
+----------------------------------------------------------------------
+Unique values: 3
+Value frequencies:
+
+['Europeana 1914-1918'] --> 1504
+['MUSEU'] --> 6
+['ThinkMOTION'] --> 2
+
+
+COLUMN: dataProvider
+----------------------------------------------------------------------
+Unique values: 3
+Value frequencies:
+
+['Europeana 1914-1918'] --> 1504
+['Nottingham City Museums and Galleries'] --> 6
+['Digital Mechanism and Gear Library'] --> 2
+
+
+COLUMN: country
+----------------------------------------------------------------------
+Unique values: 1
+Value frequencies:
+
+['Europe'] --> 1512
+
+
+COLUMN: dcLanguageLangAware.def
+----------------------------------------------------------------------
+Unique values: 57
+Value frequencies:
+
+['Français', 'fra'] --> 305
+['fra', 'Français'] --> 293
+['English', 'eng'] --> 194
+['eng', 'English'] --> 173
+['nld', 'Nederlands'] --> 83
+['deu', 'Deutsch'] --> 81
+['Deutsch', 'deu'] --> 68
+['und', 'und'] --> 62
+['Nederlands', 'nld'] --> 60
+['Ελληνικά', 'ell'] --> 25
+['Serbian', 'српски', 'srp'] --> 22
+['srp', 'Serbian', 'српски'] --> 20
+['ell', 'Ελληνικά'] --> 17
+['Română', 'ron'] --> 12
+['ita', 'Italiano'] --> 12
+['Slovenščina', 'slv'] --> 9
+['Italiano', 'ita'] --> 8
+['ron', 'Română'] --> 8
+MISSING_VALUE --> 6
+['Hrvatski', 'hrv'] --> 4
+['English', 'Dansk', 'dan', 'eng'] --> 3
+['nld', 'fra', 'Français', 'Nederlands'] --> 3
+['dan', 'eng', 'English', 'Dansk'] --> 2
+['fra', 'eng', 'English', 'Français'] --> 2
+['pol', 'Polski'] --> 2
+['English', 'Français', 'fra', 'eng'] --> 2
+['Deutsch', 'Français', 'fra', 'deu'] --> 2
+['hrv', 'Hrvatski'] --> 2
+['dan', 'Dansk'] --> 2
+['Français', 'Italiano', 'ita', 'fra'] --> 2
+['slv', 'Slovenščina'] --> 2
+['Deutsch', 'Nederlands', 'nld', 'deu'] --> 1
+['en', 'fr'] --> 1
+['eng', 'deu', 'Deutsch', 'English'] --> 1
+['English', 'Ελληνικά', 'ell', 'eng'] --> 1
+['Serbian', 'srp'] --> 1
+['Français', 'Nederlands', 'nld', 'fra'] --> 1
+['srp', 'Serbian'] --> 1
+['Deutsch', 'Dansk', 'dan', 'deu'] --> 1
+['Français', 'Slovenščina', 'slv', 'fra'] --> 1
+['English', 'Русский', 'rus', 'eng'] --> 1
+['srp', 'српски'] --> 1
+['Deutsch', 'Italiano', 'Hrvatski', 'hrv', 'ita', 'deu'] --> 1
+['Dansk', 'dan'] --> 1
+['Deutsch', 'Ελληνικά', 'ell', 'deu'] --> 1
+['English', 'Latviešu', 'eng'] --> 1
+['bos', 'Bosanski'] --> 1
+['English', 'Italiano', 'ita', 'eng'] --> 1
+['Deutsch', 'Polski', 'pol', 'deu'] --> 1
+['српски', 'srp'] --> 1
+['srp', 'deu', 'Deutsch', 'Serbian'] --> 1
+['Deutsch', 'Русский', 'rus', 'deu'] --> 1
+['rus', 'deu', 'Deutsch', 'Русский'] --> 1
+['ell', 'fra', 'Français', 'Ελληνικά'] --> 1
+['dan', 'fra', 'Français', 'Dansk'] --> 1
+['Slovenčina', 'slk'] --> 1
+['en', 'fr', 'it'] --> 1
+
