@@ -9,6 +9,12 @@ For the course Open Scholarship.
 - The data was further cleaned to include only the relevant columns.
 - The main flaw in the gathered [data](https://github.com/utku-ayan/open-scholarship-project-2026/blob/main/data/europeana_wwi_medals_29.04.2026.csv) is that the country of origin for some entries is simply 'Europe'.
 
+## Workflow
+Below is an image to visualize the workflow, i.e. what is done with the original raw data that was queried in order to transform it into a form that is more easy to interpret and from which to gather conclusions. The workflow steps are also included as steps in the research steps further below, this image is included for the sake of clarity.
+
+<img width="2045" height="769" alt="workflow image" src="https://github.com/user-attachments/assets/47c5e8a8-1ba0-4a28-8c48-560f7aa78892" />
+
+
 ## Initial Research Steps (Reconstructed)
 - 1. With the help of AI, the code provided for the course on Moodle was edited to query data about World War 1 medals from Europeana.
 - 2. The code was further modified so the csv file obtained includes only the relevant columns including provider, country and description among others. (More information [here](https://github.com/utku-ayan/open-scholarship-project-2026/blob/main/notebooks/README.md))
