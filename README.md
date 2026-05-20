@@ -7,7 +7,7 @@ For the course Open Scholarship.
 - Licence: CC0
 - The data was queried using 'Medal' or 'Medals' as keywords, with 'World War 1' and alternatives added to filter.
 - The data was further cleaned to include only the relevant columns.
-- The main flaw in the gathered [data](https://github.com/utku-ayan/open-scholarship-project-2026/blob/main/data/europeana_wwi_medals_29.04.2026.csv) is that the country of origin for some entries is simply 'Europe'.
+- The main flaw in the gathered [data](https://github.com/utku-ayan/open-scholarship-project-2026/blob/main/data/wwi_medals_filtered_columns_20.05.2026.csv) is that the country of origin for some entries is simply 'Europe'.
 
 ## Workflow
 Below is an image to visualize the workflow, i.e. what is done with the original raw data that was queried in order to transform it into a form that is more easy to interpret and from which to gather conclusions. The workflow steps are also included as steps in the research steps further below, this image is included for the sake of clarity.
