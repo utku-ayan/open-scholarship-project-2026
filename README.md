@@ -28,5 +28,6 @@ Below is an image to visualize the workflow, i.e. what is done with the original
 - 9. Another report was created from the previous file manually, since the metadata about the default languages was not standardised, and the default language counts of the entries that had "Europe" listed as their origin was finalized. Note that this does not answer the research question perfectly. Some issues with this approach are:
   - The fact that the default language of the entry not having to perfectly match the country of origin of said entry.
   - The fact that multiple countries share languages, for example Austria and Germany sharing German, and France and Belgium sharing French.
-  - The existance of entries with multiple default languages. Even though this is a very small section of the entries present, it still could present an issue.<img width="566" height="349" alt="single-multi-language-charts" src="https://github.com/user-attachments/assets/fef311df-38d1-45ce-8262-ccdd865682db" />
+  - The existance of entries with multiple default languages. Even though this is a very small section of the entries present, it still could present an issue.
+  <img width="566" height="349" alt="single-multi-language-charts" src="https://github.com/user-attachments/assets/fef311df-38d1-45ce-8262-ccdd865682db" />
 
