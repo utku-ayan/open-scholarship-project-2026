@@ -30,5 +30,5 @@ Below is an image to visualize the workflow, i.e. what is done with the original
   - The fact that multiple countries share languages, for example Austria and Germany sharing German, and France and Belgium sharing French.
   - The existance of entries with multiple default languages. Even though this is a very small section of the entries present, it still could present an issue.
   - Some entries still had missing or undefined default language values. This is also a very small number, yet makes the data not fully complete nonetheless.
-  <img width="566" height="349" alt="single-multi-language-charts" src="https://github.com/user-attachments/assets/fef311df-38d1-45ce-8262-ccdd865682db" />
+- 10. Below is a visualisation of the report created manually: <img width="566" height="349" alt="single-multi-language-charts" src="https://github.com/user-attachments/assets/fef311df-38d1-45ce-8262-ccdd865682db" />
 
