@@ -46,3 +46,9 @@ German + Russian --> 1
 French + Greek --> 1
 Danish + French --> 1
 English + French + Italian --> 1
+
+
+Missing and Undefined
+----------------------------------------------------------------------
+Undefined --> 62
+Missing --> 6
