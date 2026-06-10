@@ -1,0 +1,48 @@
+EUROPEANA WWI MEDALS METADATA REPORT (LANGUAGES)
+======================================================================
+
+Single Language Entries
+----------------------------------------------------------------------
+Unique values: 12
+Value frequencies:
+
+French --> 598
+English --> 466
+German --> 149
+Dutch --> 143
+Serbian --> 46
+Greek --> 42
+Romanian --> 20
+Italian --> 20
+Slovenian --> 12
+Croatian --> 6
+Danish --> 3
+Polish --> 2
+Bosnian --> 1
+
+
+Multi Language Entries
+----------------------------------------------------------------------
+Unique values: 21
+Value frequencies:
+
+Danish + English --> 5
+Dutch + French --> 4
+English + French --> 5
+French + German --> 2
+French + Italian --> 2
+Dutch + German --> 1
+English + German --> 1
+English + Greek --> 1
+Danish + German --> 1
+French + Slovenian --> 1
+English + Russian --> 1
+Croatian + German + Italian --> 1
+German + Greek --> 1
+English + Latvian --> 1
+English + Italian --> 1
+German + Polish --> 1
+German + Russian --> 1
+French + Greek --> 1
+Danish + French --> 1
+English + French + Italian --> 1
