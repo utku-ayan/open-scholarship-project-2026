@@ -16,3 +16,5 @@
   - "provider"
   - "dataProvider"
   - "country"
+- A [statistical report](https://github.com/utku-ayan/open-scholarship-project-2026/blob/main/data/metadata_statistics_report_europe_only.txt) on the default languages of entries, in order to help determine the entries' origins.
+  - Using this report, a [seperate report](https://github.com/utku-ayan/open-scholarship-project-2026/blob/main/data/language%20count.txt) was created manually, counting and adding up each languages occurance numbers. This was done manually because the default language data gathered from Europeana was not in a standard format across entries. 

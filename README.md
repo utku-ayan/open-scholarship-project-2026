@@ -1,10 +1,9 @@
 # open-scholarship-project-2026
 For the course Open Scholarship.
 ## Project description:
-- In the data queried from Europeana, look into from which provider and/or country the data about World War 1 medals was gathered from. **(Outdated, see Research Step V)**
+- In the data queried from Europeana, look into from which provider and/or country the data about World War 1 medals was gathered from. 
 - ## The data was queried from the [Europeana](https://www.europeana.eu/en) database.
 - Date accessed: 29.04.2026
-- Licence: CC0
 - The data was queried using 'Medal' or 'Medals' as keywords, with 'World War 1' and alternatives added to filter.
 - The data was further cleaned to include only the relevant columns.
 - The main flaw in the gathered [data](https://github.com/utku-ayan/open-scholarship-project-2026/blob/main/data/wwi_medals_filtered_columns_20.05.2026.csv) is that the country of origin for some entries is simply 'Europe'.
@@ -22,6 +21,13 @@ Below is an image to visualize the workflow, i.e. what is done with the original
 ## Research Steps
 - 4. With the help of AI, additional code was added and run to gather statistical data from the previously linked file. This file includes metadata statistics on the provider of the queried data and the data's country of origin. The [statistical report](https://github.com/utku-ayan/open-scholarship-project-2026/blob/main/data/metadata_statistics_report.txt) was added to the data section of this project.
 - 5. Research into the ['Europeana 1914-1918'](https://wayback.archive-it.org/12090/20241221132121/https://pro.europeana.eu/project/europeana1914-1918) provider, which is the provider of the majority of the data gathered that have "Europe" as their country of origin, resulted in the conclusion that in order to enrich the data entries, the column 'dcLanguageLangAware.def' that includes the default language of the entry could be used. This column has therefore been added to be included in the filtered version of the data. (Initial Research Step ii)
-- 6. The following data visualisation was created in order to show the reasoning behind the previous step: <img width="1536" height="1024" alt="country statistics charts" src="https://github.com/user-attachments/assets/688790cc-7e9f-477f-ab8f-82a3bf5e7bb2" />
-- 7. The following data visualisation was created to visualize the data providers included in the [data gathered](https://github.com/utku-ayan/open-scholarship-project-2026/blob/main/data/metadata_statistics_report.txt): <img width="1536" height="1024" alt="data provider statistics charts" src="https://github.com/user-attachments/assets/cf7c9be6-bc0e-4f43-8bba-957981f3ad7a" />
+- 6. The following data visualisation was created in order to show the reasoning behind the previous step: <img width="290" height="397" alt="country-chart" src="https://github.com/user-attachments/assets/918911e1-2853-4e9c-ad52-b1b435dc238d" />
+- 7. The following data visualisation was created to visualize the data providers included in the [data gathered](https://github.com/utku-ayan/open-scholarship-project-2026/blob/main/data/metadata_statistics_report.txt): <img width="293" height="455" alt="provider-chart" src="https://github.com/user-attachments/assets/54512011-6f8f-4cd9-a902-cd368594ee25" />
 - 8. A new [metadata statistical analysis report](https://github.com/utku-ayan/open-scholarship-project-2026/blob/main/data/metadata_statistics_report_europe_only.txt) was created, that only analyses the entries with "Europe" in their country column. This report includes the frequency report of the default language column of these entries. The plan is to infer the country of entries from the default language in their 'dcLanguageLangAware.def' column. **Note that the missing value amount in the report here drops from 245 to only 6 when only entries with "Europe" in their country column are analysed.**
+- 9. Another report was created from the previous file manually, since the metadata about the default languages was not standardised, and the default language counts of the entries that had "Europe" listed as their origin was finalized. Note that this does not answer the research question perfectly. Some issues with this approach are:
+  - The fact that the default language of the entry not having to perfectly match the country of origin of said entry.
+  - The fact that multiple countries share languages, for example Austria and Germany sharing German, and France and Belgium sharing French.
+  - The existance of entries with multiple default languages. Even though this is a very small section of the entries present, it still could present an issue.
+  - Some entries still had missing or undefined default language values. This is also a very small number, yet makes the data not fully complete nonetheless.
+- 10. Below is a visualisation of the report created manually: <img width="566" height="349" alt="single-multi-language-charts" src="https://github.com/user-attachments/assets/fef311df-38d1-45ce-8262-ccdd865682db" />
+
